@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/startingreact/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/startingreact/static/js/main.f0216ae4.js",
+    "static/js/787.ad6a61a9.chunk.js": "/github.io/startingreact/static/js/787.ad6a61a9.chunk.js",
+    "static/media/logo.svg": "/github.io/startingreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/startingreact/index.html",
+    "main.073c9b0a.css.map": "/github.io/startingreact/static/css/main.073c9b0a.css.map",
+    "main.f0216ae4.js.map": "/github.io/startingreact/static/js/main.f0216ae4.js.map",
+    "787.ad6a61a9.chunk.js.map": "/github.io/startingreact/static/js/787.ad6a61a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f0216ae4.js"
+  ]
+}
