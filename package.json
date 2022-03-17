@@ -2,7 +2,7 @@
   "name": "statingreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jkors.github.io/startingreact/",
+  "homepage": "https://jkors.github.io/startingreact",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
